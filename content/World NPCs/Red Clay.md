@@ -1,0 +1,1 @@
+Last known survivor of the [[Circle of the fallen Leaf]]. Apprentice of [[Clay the Red]].

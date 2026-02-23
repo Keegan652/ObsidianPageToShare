@@ -1,0 +1,1 @@
+The ghost of [[Hunters Hollow]]. Meet [[Jack Caine]] as a child. She  remembers how fun the carnival was and recognizes Jack as the young boy she meet there who taught her the songs of the carnival. Currently hangs around  [[Life found anew Orphanage]].

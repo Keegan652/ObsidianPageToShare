@@ -1,0 +1,3 @@
+Leader of the [[Circle of the fallen Leaf]].
+
+Crazy old fool. Has a journal that speaks about [[Red Clay]] being a chosen one (he is not). He also had ramblings about Nature being completely connected by a network that makes the trees share information. He only referred to the entity as [[The Network]]. Granted this is most likely the only thing the crazy old man was correct about at least directly. He's not wrong about some nuances of his ramblings but its complicated. For example [[Red Clay]] is not a chosen one to the world but is chosen by [[Clay the Red]]. So a spirit of what he means is true but he's never 100% right except for [[The Network]].

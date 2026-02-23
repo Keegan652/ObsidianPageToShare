@@ -1,0 +1,1 @@
+Leader of the [[Snakes of Severence]]. seeks to gain ultimate power from [[Orochi]].

@@ -1,0 +1,2 @@
+Daughter of Ginger. Youngest of the [[Flameweave]] family. She is not known of by the rest of the [[Flameweave]] family. Secret daughter of [[Gareth Hollow]] he does not know they are related.
+Currently Resides in [[Hunters Hollow]] and runs the Bar [[The Bow]].

@@ -1,0 +1,1 @@
+Cult that is taking advantage of a trapped god. The leader [[Sevris the Serpent]] has initiated the final stages of his plan for power. He seeks to absorb the power of [[Orochi]] the 7 headed serpent god.

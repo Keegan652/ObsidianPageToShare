@@ -1,0 +1,1 @@
+Plan to destroy [[Hunters Hollow]] by creating divining snakes to spy on the town and to distribute poison and create chaos so that the town could easily be conquered.

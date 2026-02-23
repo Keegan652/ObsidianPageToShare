@@ -1,0 +1,1 @@
+ Both [[Red Clay]] and [[Clay the Red]] are part of this broken circle of druids.

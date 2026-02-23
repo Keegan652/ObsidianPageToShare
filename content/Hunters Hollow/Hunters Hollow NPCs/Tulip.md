@@ -1,0 +1,1 @@
+The [[Apothecary]] of [[Hunters Hollow]]. Member of the [[Snakes of Severence]]. Was instrumental in the plot to kill 99% of the town. Plan was know as [[Serpent Strike]].
