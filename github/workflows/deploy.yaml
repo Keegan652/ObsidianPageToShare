@@ -19,26 +19,42 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout (with submodules)
         uses: actions/checkout@v4
+        with:
+          submodules: true
+          fetch-depth: 0
 
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: "20"
           cache: "npm"
+          cache-dependency-path: quartz/package-lock.json
 
-      - name: Install dependencies
+      # Quartz expects content at quartz/content on the runner.
+      # Your notes are in repo root /content, so copy them in at build time.
+      - name: Sync content into Quartz
+        run: |
+          rm -rf quartz/content
+          mkdir -p quartz/content
+          cp -R content/. quartz/content/
+
+      - name: Install dependencies (Quartz)
+        working-directory: quartz
         run: npm ci
 
-      - name: Build site
-        run: npm run build
+      # For Quartz v4, build is typically via the CLI.
+      # If `npm run build` exists in your submodule, you can keep it,
+      # but this is the safest/up-to-date command:
+      - name: Build site (Quartz)
+        working-directory: quartz
+        run: npx quartz build
 
-      # IMPORTANT: set this path to whatever your build output folder is
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: quartz/public
 
   deploy:
     runs-on: ubuntu-latest
